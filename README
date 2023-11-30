@@ -1,0 +1,21 @@
+~~~
+
+cosmo-sdl-template - Minimal SDL2 sample for Cosmopolitan
+
+The binary you see checked in, cosmo-sdl.com, should run without modification on:
+Linux, macOS, Windows, FreeBSD, OpenBSD and NetBSD.
+If it doesn't, do let me know so I can fix it.
+
+Q: Cosmopolitan?
+A: https://github.com/jart/cosmopolitan
+
+Q: Where are the rest of the SDL functions?
+A: TODO. This is still a WIP
+
+Build dependencies: cosmocc
+Runtime dependencies: SDL2 installed on a cosmo supported OS.
+
+To build: make
+To run: ./cosmo-sdl.com
+
+~~~
